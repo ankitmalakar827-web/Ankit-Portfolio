@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ankitmalakar.example.com/sitemap.xml
+Sitemap: https://github.com/ankitmalakar827-web/Ankit-Portfolio.git/sitemap.xml
